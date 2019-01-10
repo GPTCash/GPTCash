@@ -1,32 +1,21 @@
 
-GPTCash development tree
+GPTCash
+A Cryptocurrency for the GPT Industry
 
-GPTCash is a PoS-based cryptocurrency.
+Project Introduction
+GPTCash is a community cryptocurrency project and envisioned itself as one of the major payment currency in the GPT Industry. Our GPT platform will enable employers, advertisers and different companies to outsource job and manpower for more efficient and cost-effective way to complete their needs. GPT Industry is a billion dollar industry and many work at home people are turning to GPT Platform to earn extra money online. 
 
-Development process
-===========================
+Unlike Other Cryptocurrency Project we are not promising fancy blockchain technology but a real use case by creating a real ecosystem and market behind GPTCash as a online currency for payment of goods and services.
 
-Developers work in their own trees, then submit pull requests when
-they think their feature or bug fix is ready.
+Technical Details 
 
-The patch will be accepted if there is broad consensus that it is a
-good thing.  Developers should expect to rework and resubmit patches
-if they don't match the project's coding conventions (see coding.txt)
-or are controversial.
+Scrypt - Proof of Stake<br>
+GPTCash - GPTC<br>
+POS - 10% Annually<br>
+Min Stake Age 8 Hours : Max Stake Age Unlimited<br>
+50 Blocks Maturity<br>
+5 Blocks Confirmation<br>
+Max Supply: 100,200,000 GPTC<br>
+Pre-Mine Supply: 40,200,000 GPTC<br>
 
-The master branch is regularly built and tested, but is not guaranteed
-to be completely stable. Tags are regularly created to indicate new
-stable release versions of GPTCash.
 
-Feature branches are created when there are major new features being
-worked on by several people.
-
-From time to time a pull request will become outdated. If this occurs, and
-the pull is no longer automatically mergeable; a comment on the pull will
-be used to issue a warning of closure. The pull will be closed 15 days
-after the warning if action is not taken by the author. Pull requests closed
-in this manner will have their corresponding issue labeled 'stagnant'.
-
-Issues with no commits will be given a similar warning, and closed after
-15 days from their last activity. Issues closed in this manner will be 
-labeled 'stale'.
